@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_dot">.</string>
+    <string name="key_plus">+</string>
+    <string name="key_minus">-</string>
+    <string name="key_multiply">x</string>
+    <string name="key_equally">=</string>
+    <string name="key_divide">:</string>
+</resources>
